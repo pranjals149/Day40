@@ -2,4 +2,4 @@
 Developed a port scanner to scan a targeted IP Address.
 
 #### To run the scanner, type the following command in terminal
-python3 scanner.py <ip-address>
+python3 scanner.py ip-address
